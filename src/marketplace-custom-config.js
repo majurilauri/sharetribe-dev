@@ -140,6 +140,38 @@ export const filters = [
           key: 'own_food_allowed',
           label: 'Own food allowed',
         },
+        {
+          key: 'terrace',
+          label: 'Terrace',
+        },
+        {
+          key: 'bathroom',
+          label: 'Bathroom',
+        },
+        {
+          key: 'swimming_pool',
+          label: 'Swimming pool',
+        },
+        {
+          key: 'jacuzzi',
+          label: 'Jacuzzi',
+        },
+        {
+          key: 'lake_view',
+          label: 'Lake view',
+        },
+        {
+          key: 'sea_view',
+          label: 'Sea view',
+        },
+        {
+          key: 'barbeque',
+          label: 'Barbeque',
+        },
+        {
+          key: 'fireplace',
+          label: 'Fireplace',
+        },      
       ],
     },
   },
